@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    height: 90vh;
+}
+.game{
+    background-color: #fff;
+    width: 400px;
+    padding: 20px;
+}
+.game img{
+    width: 130px;
+    cursor:pointer;
+}
